@@ -1,0 +1,19 @@
+{
+  "name": "newserver",
+  "version": "1.0.0",
+  "description": "hahahaha my first app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "hola",
+    "hola"
+  ],
+  "author": "huhu",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
